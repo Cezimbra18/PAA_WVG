@@ -1,0 +1,3 @@
+d100.txt | tempo_sort: 0 ms
+d1000.txt | tempo_sort: 0.9984 ms
+d10000.txt | tempo_sort: 138.719 ms

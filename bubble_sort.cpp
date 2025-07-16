@@ -35,7 +35,7 @@ void bubble_sort(int lista[], int tamanho_da_lista) {
 
 int main() {
     // Pasta onde os arquivos de entrada estão localizados
-    string pasta = "EntradasTeste/";  
+    string pasta = "Entradas/Aleatorios/";  
     
     // Nome do arquivo onde os resultados serão salvos
     string arquivo_saida = "Resultado_bubble_sort.txt";

@@ -1,0 +1,4 @@
+o100.txt | tempo_sort: 0 ms
+o1000.txt | tempo_sort: 2.9963 ms
+o10000.txt | tempo_sort: 126.209 ms
+o100000.txt | tempo_sort: 14610.8 ms

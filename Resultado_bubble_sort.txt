@@ -1,6 +1,7 @@
 a100.txt | tempo_sort: 0 ms
-a1000.txt | tempo_sort: 2.1722 ms
-a200.txt | tempo_sort: 0 ms
-a2000.txt | tempo_sort: 5.0123 ms
-a500.txt | tempo_sort: 1.0517 ms
-a5000.txt | tempo_sort: 27.0692 ms
+a1000.txt | tempo_sort: 0.9928 ms
+a10000.txt | tempo_sort: 106.41 ms
+a100000.txt | tempo_sort: 17944.3 ms
+a1000000.txt | tempo_sort: 2.12181e+06 ms
+a1250000.txt | tempo_sort: 3.14244e+06 ms
+a15000.txt | tempo_sort: 333.87 ms
