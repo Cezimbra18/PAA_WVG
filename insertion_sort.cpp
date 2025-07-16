@@ -74,6 +74,7 @@ void processarArquivo(const fs::directory_entry& entry, ofstream& csv) {
         csv << "," << tempos[i];
     }
     csv << endl;
+    csv.flush();
 }
 
 int main() {
