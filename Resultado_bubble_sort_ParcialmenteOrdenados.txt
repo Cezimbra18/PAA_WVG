@@ -1,0 +1,4 @@
+po100.txt | tempo_sort: 0 ms
+po1000.txt | tempo_sort: 1.0003 ms
+po10000.txt | tempo_sort: 106.719 ms
+po100000.txt | tempo_sort: 14684 ms
