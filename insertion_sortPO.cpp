@@ -78,8 +78,8 @@ void processarArquivo(const fs::directory_entry& entry, ofstream& csv) {
 }
 
 int main() {
-    string pasta = "./Aleatórios";  // pasta com seus arquivos .txt
-    string arquivo_saida = "tempos.csv";
+    string pasta = "./Entradas/ParcialmenteOrdenados";  // pasta com seus arquivos .txt
+    string arquivo_saida = "temposPO.csv";
 
     ofstream csv(arquivo_saida);
     if (!csv.is_open()) {
