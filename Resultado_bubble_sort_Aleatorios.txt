@@ -1,0 +1,4 @@
+a100.txt | tempo_sort: 0 ms
+a1000.txt | tempo_sort: 2.0285 ms
+a200.txt | tempo_sort: 0 ms
+a500.txt | tempo_sort: 1.4614 ms
